@@ -11,8 +11,7 @@
 #include <ctime>
 
 #include "../headers/nlohmann/json.hpp"
-#include "../headers/josephus_namespace.hpp"
-#include "../headers/log_entry.hpp"
+#include "../headers/josephus.hpp"
 
 using namespace std::chrono;
 using json = nlohmann::json;

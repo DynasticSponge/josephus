@@ -11,10 +11,7 @@
 #include <sstream>
 #include <thread>
 
-#include "../headers/josephus_namespace.hpp"
-#include "../headers/log_entry.hpp"
-#include "../headers/log_enums.hpp"
-#include "../headers/log_logger.hpp"
+#include "../headers/josephus.hpp"
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // global variable definitions

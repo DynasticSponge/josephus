@@ -12,10 +12,7 @@
 #include <future>
 
 #include "../headers/nlohmann/json.hpp"
-#include "../headers/josephus_namespace.hpp"
-#include "../headers/log_entry.hpp"
-#include "../headers/log_logger.hpp"
-#include "../headers/log_manager.hpp"
+#include "../headers/josephus.hpp"
 
 using json = nlohmann::json;
 
