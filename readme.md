@@ -1,4 +1,5 @@
 # josephus
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a9dca4294cec4f4b82398e4990db939b)](https://www.codacy.com/manual/joseph.adomatis/josephus?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DynasticSponge/josephus&amp;utm_campaign=Badge_Grade)
 
 josephus is a simple C++ logging library
 -   Supports multi-threaded applications
