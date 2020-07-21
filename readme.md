@@ -1,6 +1,9 @@
 # josephus
 
-josephus is a C++ logging library
+josephus is a simple C++ logging library
+-   Supports multi-threaded applications
+-   Supplies JSON formatted file output.
+-   Log files auto-rotate daily.
 
 ## Stage/Release
 
