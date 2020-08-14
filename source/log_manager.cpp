@@ -190,15 +190,17 @@ void josephus::LogManager::setAppName(const std::string& newName)
 {
     this->appName = newName;
     this->hasName = true;
+    return;
 }
 
 ///////////////////////////////////////////////////////////////////////////////
 // josephus::LogManager::setLevel
 ///////////////////////////////////////////////////////////////////////////////
 
-void josephus::LogManager::setLevel(josephus::enums::level)
+void josephus::LogManager::setLevel(josephus::enums::level newLevel)
 {
-
+    this->logLevel = newLevel;
+    return;
 }
 
 ///////////////////////////////////////////////////////////////////////////////
